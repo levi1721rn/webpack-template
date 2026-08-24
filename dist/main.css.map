@@ -1,1 +1,0 @@
-{"version":3,"file":"main.css","mappings":";;;AAAA;AACA;AACA;AACA","sources":["webpack://webpack-practice/./src/styles.css"],"sourcesContent":["/* styles.css */\nbody {\n  background-color: rebeccapurple;\n}\n"],"names":[],"sourceRoot":""}
